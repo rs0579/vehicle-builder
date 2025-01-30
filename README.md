@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a vehicle builder that allows to you create a new vehicle, select one that has already been created or prepopulated. Also, it allows perform actions to the chosen vehicle. 
+This is a vehicle builder that allows to you create a new vehicle, select one that has already been created or prepopulated. Also, it allows perform actions to the chosen vehicle.
+🚗 🏍️ 🛻
 
 ## Table of Contents
 
@@ -15,7 +16,7 @@ This is a vehicle builder that allows to you create a new vehicle, select one th
 
 ## Installation
 
-npm i
+node index.js
 
 
 ## Usage
@@ -23,7 +24,7 @@ npm i
 
 ## License
 
-MIT
+MIT license
 
 ## Badge
 ![GitHub license](https://img.shields.io/badge/MIT-license-pink)
@@ -38,4 +39,4 @@ npm run start
 
 ## Questions 
 
-[Email me](mailto:raheemsenegal@outlook.com) or you can find me at my [GitHub](https://github.com/rs0579).
+[Email me](mailto:raheemsenegal@outlook.com) or you can find me at my [GitHub](https://github.com/rs0579). Walkthrough: https://youtu.be/oyMhliaOCsA
